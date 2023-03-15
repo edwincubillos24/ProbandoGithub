@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         //Edwin Cubillos Vega
         //Daniel Munoz Restrepo
         //david vargas bonett (Davito19)
+        //Juan Rivera Florez
     }
     //Sebastian Restrepo
 }
