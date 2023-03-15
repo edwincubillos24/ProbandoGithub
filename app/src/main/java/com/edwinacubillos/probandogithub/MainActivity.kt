@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //Edwin Cubillos Vega
+        //Daniel Munoz Restrepo
         //Juan Rivera Florez
     }
 }
