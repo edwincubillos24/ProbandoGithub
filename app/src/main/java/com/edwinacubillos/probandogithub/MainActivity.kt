@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //Edwin Cubillos Vega
         //Daniel Munoz Restrepo
+        //david vargas bonett (Davito19)
         //Juan Rivera Florez
     }
 }
